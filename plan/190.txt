@@ -1,0 +1,47 @@
+190
+Méthodes combinatoires, problèmes de dénombrement. 
+
+#d
+
+Nombres de Bell
+Nombre de matrice sur un corps finis de polynôme caractéristique donné 
+
+#r
+
+debiasi
+perrin
+ulmergroupe
+nh2g21
+saux-picart
+gourdon
+
+
+#c
+
+
+#p
+
+I Généralités et outils
+i Ensembles finis, cardinal...
+i Arrangements, permutations et combinaisons
+i Grandes idées
+- Le lemme des Bergers + app à Lagrange
+- principe des tiroirs
+
+I Dénombrement en théorie des groupes et sur les corps finis
+i Actions de groupes 
+i Corps finis
+- exemple des matrices diagonalisables sur $\mathbb F_q$ (dev)
+
+I Fonctions multiplicatives, arithmétique
+i Indicatrice d'Euler, Möbius : nombre de polynôme irréductibles sur $\mathbb F_q$
+i Symbôle de Legendre : nombre de carrés de $\mathbb F_q$
+
+I Séries génératrices
+i Séries formelles
+i Séries entières !
+- nombres de Bell (dev)
+
+I Dénombrement dans des arbres ?
+- Nombre minimal de comparaisons dans un tri par comparaison
+- Complexité en moyenne du tri rapide

@@ -1,0 +1,41 @@
+ 170
+Formes quadratiques sur un espace vectoriel de dimension finie. Orthogo- nalité, isotropie. Applications.
+
+#d
+
+Théorème de Cartan-Dieudonné
+Théorème du point fixe de Kakutani et sous-groupes compacts de $GL_n(\mathbb{R})$ 
+
+#r
+
+seguins-pazzis
+gourdon
+grifone
+duverney
+
+
+#c
+
+
+#p
+
+I Formes bilinéaires et quadratiques
+i Définitions
+i Représentation matricielle
+i Formes quadratiques positives
+
+I Orthogonalité et isotropie
+i Orthogonalité
+i Bases orthogonales
+i Isotropie
+
+I Classification de réduction
+i Classification sur $\mathbb F_q$, $\mathbb R$, $\mathbb C$
+i Réduction simultanée
+
+I Groupe orthogonal
+i Définition et générateurs
+- Théorème de Cartan-Dieudonné (dev)
+i Décomposition polaire
+i Sous-groupes
+- Théorème du point fixe de Kakutani + applications (dev)

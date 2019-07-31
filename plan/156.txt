@@ -1,0 +1,35 @@
+156
+Exponentielle de matrices. Applications.
+
+#d
+
+Différentiabilité de l'exponentielle de matrices
+Dunford et l'exponentielle de matrice 
+
+#r
+
+beck
+demailly
+mneimé-testard
+nh2g21
+nh2g22
+
+#c
+
+
+#p
+
+I Définition et premières propriétés
+
+I Méthodes de calcul
+i Calcul pour des endomorphismes diagonalisables et nilpotents
+i Blocs de Jordan (éventuellement)
+i Décompositon de Dunford (dev)
+
+I Systèmes différentiels
+
+I Propriétés topologiques
+i Surjectivités, décomposition polaire
+i Continuité : homéomorphismes
+i Différentiabilité (dev)
+

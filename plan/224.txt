@@ -1,0 +1,39 @@
+224
+Exemples de développements asymptotiques de suites et de fonctions.
+
+#d
+
+Développement asymptotique de la série harmonique
+Méthode de Laplace 
+
+#r
+
+gourdon
+rombaldi
+rouviere
+el-amranisuite
+hauchecorne
+
+#c
+
+
+#p
+
+
+I Développements limités, développements asymptotiques
+i Limités
+i Asymptotiques
+
+I Le cas des suites et séries
+i Équivalents usuels
+i Théorème de comparaison
+i Vitesse de convergence des suites récursives : le cas de la méthode de Newton
+i Comparaison série intégrale
+- Exemple de la série harmonique (dev)
+
+I Le cas des intégrales
+i Intégration des développements limités
+i Théorèmes de comparaison
+i Recherche d'équivalents
+- Méthode de Laplace (dev)
+

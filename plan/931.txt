@@ -1,0 +1,48 @@
+931
+Schémas algorithmiques. Exemples et applications.
+
+#d
+
+Algorithme de Floyd-Warshall
+Tri par tas
+Tri rapide
+
+#r
+
+benoit
+cormen
+
+
+#c
+
+
+#p
+
+I Notion de paradigme
+
+I Approche gloutonne
+i Principe
+i Exemple du rendu de monnaie
+i Matroïdes
+i Approximation
+
+I Diviser pour régner
+i Sous problèmes et reconstruction
+i Master theorem
+i Algorithmes de tri
+- tri fusion
+- tri par tas
+- tri rapide (dev)
+i Multiplications de matrices (Strassen)
+i Application théorique : théorème de Savitch
+
+I Programmation dynamique
+i Sous problèmes optimaux et relation de récurrence
+i Mémoïsation
+i Applications en algorithmique du texte
+- distance d'éditions et facteurs
+- plus longue sous séquence commune
+
+i Applications en algorithmique des graphes
+- Floyd-Warshall (dev)
+

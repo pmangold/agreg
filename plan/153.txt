@@ -1,0 +1,42 @@
+153
+Polynômes d’endomorphisme en dimension finie. Réduction d’un endomor- phisme en dimension finie. Applications.
+
+#d
+
+Dunford et l'exponentielle de matrice
+Nombre de matrice sur un corps finis de polynôme caractéristique donné
+
+#r
+
+gourdon
+beck
+nh2g21
+nh2g22
+rombaldi
+
+
+#c
+
+
+#p
+
+I Polynômes d'endomorphismes
+i L'algèbre $\mathbb{K}(u)$
+i Polynômes annulateurs, polynôme minimal
+i Polynôme caractéristique : application à la dimension du commutant
+
+I Réduction
+i Sous espaces propres/caractéristiques : lemme des noyaux
+i Endomorphismes diagonalisables
+i Endomorphismes trigonalisables
+
+I Applications
+i Matrices diagonalisables
+* Puissances d'une matrice : si diagonalisable ou non 
+* Dénombrement des matrices de polynôme $X^q - X$ sur $\mathbb F_q$ (dev)
+* Systèmes différentiels : cas diagonalisable + cas général
+
+i Matrices trigonalisables
+* Systèmes linéaires
+* Décomposition de Dunford et l'exponentielle matricielle (dev)
+

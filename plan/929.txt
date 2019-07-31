@@ -1,0 +1,43 @@
+929
+Lambda-calcul pur comme modèle de calcul. Exemples.
+
+#d
+
+Algorithme de type principal
+Les fonctions récursives sont lambda-définissables 
+
+#r
+
+
+#c
+
+
+#p
+
+I Définition des $\lambda$-termes
+
+i Termes
+
+i Variables libres, substitution
+
+i $\alpha$-équivalence
+
+i Indices de Bruijn
+
+I Réduction
+ 
+i $\beta$ et $\eta$ réductions
+
+i Formes normales, Church-Rosser
+
+i Dérivation à gauche
+
+i $\lambda$-calcul simplement typé (dev)
+
+I Expressivité
+
+i Entiers de Church
+
+i Combinateurs de point fixe
+
+i Équivalence avec les fonctions récursives (dev)

@@ -1,0 +1,80 @@
+915
+Classes de complexité. Exemples.
+
+#d
+
+Problème du voyageur de commerce euclidien
+Théorème de Savitch 
+
+#r
+
+cormen
+papadimitriou
+arora-barak
+
+#c
+
+On se donne un problème, et on essaye de le résoudre, pour ça, on définit un algorithme qui prend quelque chose en entrée et 
+donne une réponse. Cet algorithme, c'est la définition d'une machine de Turing.
+
+À partir de là, on se demande si notre algorithme est bon. En gros : est-ce qu'on peut faire mieux ? Et en fait, on se rend
+compte que la rapidité avec laquel on peut résoudre un problème dépend pas de l'algorithme mais bien du problème lui-même !
+Par exemple, déterminer si un graphe est connexe c'est plutôt facile, déterminer s'il y a une CLIQUE dedans, c'est difficile.
+
+Mais on peut faire une remarque fondamentale : il y a des problèmes qui se ressemblent, au sens ou une solution à l'un donne 
+une solution à l'autre ! Et ça qui permet de définir des classes de complexité ! Par exemple, P, NP, et leurs équivalents en
+espace.
+
+Mais... ces classes de complexité, est-ce que c'est pas un peu tout la même chose ? Il y a des inclusions strictes, des inclusions
+qu'on ne sait pas, et des égalités ! Par exemple, des machines de Turing déterministes ou non, qui tournent en temps polynomial,
+bah c'est la même chose ! C'est le théorème de Savitch (dev).
+
+Enfin, une fois qu'on est coïncés avec nos problèmes difficiles, on fait quoi ? Une solution très actuelle c'est de prendre 
+un max de processeurs pour aller plus vite, ce qui mène à une autre définition de classe de complexité. Mais une autre approche
+donne des résultats parfois sympa, c'est l'approximation. On va voir que cette approche peut donner des résultats sympa mais 
+qu'elle atteint très rapidement ses limites : TSP (dev).
+
+
+#p
+
+I Définitions et contexte
+
+i Machines de Turing : coût spatial et temporel
+
+i Problème de décision
+
+i Définition de la complexité d'un problème
+
+i Réduction d'un problème à un autre
+
+I Classes de complexité
+
+i Intérêt des classes de complexité et bonne définition, théorème d'accélération linéaire et justification de l'utilisation des O(.)
+
+i Complexité temporelle
+
+- Des problèmes faciles : la class PTIME
+
+- Des problèmes plus difficiles : la classe NPTIME, exemple de SAT
+
+- D'autres classes de complexité
+
+i Complexité spatiale
+
+- Les classes de complexité spatiales
+
+* On précise bien que la disction P/NP n'a pas de sens car PSPACE=NPSPACE d'après le thm de Savitch (dev).
+
+* L, NL, PSPACE, NPSPACE, EXPSPACE
+
+- Lien avec la complexité temporelle
+
+I Que faire d'un problème difficile ?
+
+i Circuits logiques et parallèlisme
+
+- Circuits logiques et nouvelles classes de complexité
+
+- PRAM et calcul dans ces classes de complexité
+
+i Les approximations : exemple du TSP (dev)

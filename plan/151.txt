@@ -1,0 +1,39 @@
+151
+Dimension d’un espace vectoriel (on se limitera au cas de la dimension finie). Rang. Exemples et applications.
+
+#d
+
+Algorithme de Berlekamp
+Dimension du commutant 
+
+#r
+
+grifone
+gourdon
+beck
+mansuy
+
+#c
+
+
+#p
+
+
+I Dimension d'un espace vectoriel
+i Familles génératrices, libres, dimension
+i Dimension (finie)
+i Sous-espaces vectoriels
+
+I Rang et applications linéaires
+i Pour les applications linéaires
+- Application à la factorisation de polynômes : Berlekamp (dev)
+i Pour les matrices
+i Théorème du rang
+i Systèmes linéaires
+- Caractérisation par le rang : dimension du commutant (dev)
+- Pivot de Gauss
+
+I Aspects topologiques
+i Théorème de Riesz
+i Normes et équivalence des normes
+i Applications linéaires continues

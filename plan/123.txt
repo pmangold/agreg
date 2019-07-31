@@ -1,0 +1,39 @@
+123
+Corps finis. Applications.
+
+#d
+
+Algorithme de Berlekamp
+Lemme de Frobenius-Zolotarev
+Nombre de matrice sur un corps finis de polynôme caractéristique donné 
+
+#r
+
+perrin
+gourdon
+gozard
+beck
+mercieralgebre
+
+#c
+
+
+#p
+
+I Corps finis
+i Définitions : corps et sous-corps
+i Existence et unicité
+i Groupe multiplicatif
+
+I Carrés de $\mathbb F_q$
+i Généralités : ce que c'est un carré, l'ensemble des carrés, théorème des deux carrés ?
+i Symbôle de Legendre : Frobenius-Zolotarev
+
+I Polynômes sur un corps fini
+i Clôture algébrique
+i Polynômes irréductibles et factorisation
+- Algorithme de Berlekamp (dev)
+
+I Dénombrement des ensembles de matrices
+- cardinal de $GL_n(F_q)$
+- nombre de matrices blabla (dev)

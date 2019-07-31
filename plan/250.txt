@@ -1,0 +1,38 @@
+250
+Transformation de Fourier. Applications.
+
+#d
+
+Échantillonage de Shannon
+Intégrale de Dirichlet et séries de Fourier 
+
+#r
+
+rudin
+briane-pages
+gourdon
+queffelec-zuily
+faraut
+beck
+barbe-ledoux
+ouvrard
+
+#c
+
+
+#p
+
+I Transformée de Fourier sur les fonctions intégrables
+i Définition et premières propriétés
+i Produit de convolution
+i Inversion de la transformée de Fourier
+- intégrale de Dirichlet + formule d'inversion
+
+I Extension de la transformée de Fourier
+i Prolongement à $L^2(\mathbb R)$
+i Espace de Schwartz
+
+I Applications en analyse
+i Formule sommatoire de Poisson et signaux à spectre borné (dev)
+i Polynômes orthogonaux
+i Fonction caractéristique d'une variable aléatoire

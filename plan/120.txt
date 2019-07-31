@@ -1,0 +1,39 @@
+120
+Anneaux Z/nZ. Applications.
+
+#d
+
+Lemme de Zolotarev
+Théorème de Dirichlet faible
+
+#r
+
+caldero-peronnier
+risler-boyer
+combesgeometrie
+perrin
+gourdon
+demazure
+
+#c
+
+
+#p
+
+
+I Structure de $\mathbb Z / n \mathbb Z$ 
+i Groupe
+i Anneau
+i Théorème de chinois
+
+I Arithmétique
+i Nombres premiers
+i Tests de primalité
+i Carrés de $\mathbb Z / n \mathbb Z$ : Frobenius-Zolotarev (dev)
+
+I Polynômes
+i Polynômes irréductibles sur $\mathbb F_p$
+i Critères d'irréductibilité
+i Polynômes cyclotomiques : théorème de Dirichlet faible (dev)
+
+

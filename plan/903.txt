@@ -1,0 +1,70 @@
+903
+Exemples d’algorithmes de tri. Correction et complexité.
+
+#d
+
+Complexité moyenne du tri rapide
+Tri par tas 
+
+#r
+
+froidevaux
+cormen
+
+#c
+
+Le problème du tri est souvent présenté comme le problème le plus fondamental de l'informatique, et c'est vrai qu'il est présent partout : trier une liste de noms,
+trier des objets graphiques à afficher (pour afficher ceux qui sont au dessus à la fin), files de priorité (ce qui sert pour du task scheduling, pour des heuristiques
+de parcours de graphe...).
+
+Le choix de l'algorithme de tri à utiliser dépend de ce que l'on veut trier, mais on va s'attarder sur le tri par comparaison. Si l'on trie peu d'éléments, un tri par
+séléction sera rapide. Si on trie une liste qui est presque triée, le tri par insertion peut être efficace. Enfin on a une borne optimale sur les tris par comparaison,
+et on voit qu'on peut l'atteindre avec un tri comme le tri par tas (dev).
+
+En pratique, le tri rapide est meilleur, ce qui s'intuite déjà par sa complexité en moyenne bien meilleure que sa complexité dans le pire cas (dev).
+
+Finalement, vu qu'on a souvent des machines avec beaucoup de processeurs, il faut observer rapidement qu'on peut faire des tris parallèles très efficaces !
+
+#p
+
+I Le problème du tri
+
+- Définition
+
+- Stabilité
+
+- Organisation de la mémoire
+
+I Les tris par comparaison
+
+i Des tris naïfs
+
+* Tris par sélection
+
+- Séléction ordinaire
+- Tri à bulles
+
+* Tris par insertion
+
+- Insertion séquentielle
+- Insertion dichotomique
+
+i Diviser pour régner !
+
+* Tri fusion
+* Tri rapide
+
+i Utilisation de structures de données particulières : tri par tas 
+
+- Note sur le tas : application aux files de priorité
+
+i Un résultat d'optimalité
+
+I Tris linéaire
+
+i Tri par comptage
+
+i Tri par paquets
+
+I Tris parallèles
+

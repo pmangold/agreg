@@ -1,0 +1,39 @@
+932
+Fondements des bases de données relationnelles.
+
+#d
+
+Minimisation de tableaux
+Insertion dans un arbre B
+
+#r
+
+abiteboul
+handbook
+
+#c
+
+
+#p
+
+I Le modèle relationnel
+
+I Langages de requêtes
+
+i Approche logique : calcul relationnel
+
+i Approche algébrique : algèbre relationnelle
+
+i Équivalence des deux : théorème de Codd
+
+I Aspects pratiques, comment améliorer le temps de réponse ?
+
+i Optimisation de requêtes
+
+- Requêtes sous forme de tableaux
+
+- Équivalences et minimisations de tableaux
+
+- NP-complétude du problème de décision $q \subseteq q'$
+
+i Recherche dans une table : l'importance des index, arbres B (dev)

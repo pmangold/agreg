@@ -1,0 +1,66 @@
+914
+Décidabilité et indécidabilité. Exemples.
+
+#d
+
+Décidabilité de l'arithmétique de Presburger
+Théorème de Rice 
+
+#r
+
+carton
+autebert
+hopcroft
+
+#c
+
+Disons qu'on se pose une question à laquelle on peut répondre par oui ou par non. On va réfléchir très longtemps et (peut-être) finir par
+donner une réponse...
+
+Plus concrètement, réféchir, ça veut dire dérouler un algorithme, utiliser une méthode de calcul (par exmple les machines de Turing, mais 
+on pourrait utiliser un autre modèle de calcul), et autant de temps que l'on veut, ça veut dire en un nombre fini d'étapes. Et la question
+posée au dessus est un problème de décision.
+
+Le problème est dit décidable s'il existe une machine de Turing qui s'arrête sur tout entrée et qui répond à la question. Mais là, malheur,
+tous les problèmes ne sont pas décidables ! L'exemple canonique c'est le problème de l'arrêt, et en fait, on peut en trouver tout plein,
+en définissant une propriété non triviale sur un langage, ce qui donne un langage indécidable : c'est le théorème de Rice (dev).
+
+Maintenant, si on veut déterminer l'(in)décidabilité d'un problème, une méthode un peu plus simple est de se demander si on peut le réduire
+à un problème qu'on sait être (in)décidable ! C'est pour ça que c'est important d'avoir tout un tas de problèmes sous le coude, vers lesquels
+on pourra réduire nos nouveaux problèmes. On peut citer l'exemple historique, le problème de correspondance de Post, et un autre exemple
+retentissant, en logique : la décidabilité de l'arithmétique de Presburger (dev).
+
+
+
+
+#p
+
+I Définitions
+
+i Modèles de calcul
+
+* Machines de Turing
+
+* Fonctions récursives, lambda calcul
+
+* Thèse de Church
+
+i La notion de problème
+
+* Problème de décision
+
+* Décidabilité et indécidabilité
+
+I Problèmes classiques 
+
+i Le problème de l'arrêt et le théorème de Rice (dev)
+
+i Déterminer l'(in)décidabilité : la réduction
+
+I Exemples de problèmes
+
+i Problème de correspondance de Post (PCP)
+
+i Machine linéairement bornées : grammaires non contextuelles
+
+i Théories logiques : Presburger (dev), Presburger + multplication est indécidable

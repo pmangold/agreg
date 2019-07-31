@@ -1,0 +1,65 @@
+913
+Machines de Turing. Applications.
+
+#d
+
+Théorème de Cook
+Théorème de Rice 
+
+
+#r
+
+papadimitriou
+sipser
+carton
+
+#c
+
+On peut adopter deux points de vue différents sur le calcul d'un algorithme : le point de vue fonctionnel (fonctions récursives), et le point 
+de vue algorithmique (machines de Turing). Ici, on va s'intéresser aux machines de Turing, et on va voir que cela permet de donner un sens
+très clair à la notion d'algorithme et de problème de décision.
+
+On présente rapidement le modèle de calcul d'un machine de Turing, et on explique que c'est un peu comme un ordinateur parce qu'il existe une 
+machine de Turing qui peut simuler n'importe quelle machine (!!)... Cela permet de définir ce qui est calculable et ce qui est décidable !
+En particulier, on peut assez facilement construire tout un tas de langages qui ne sont pas décidables, et c'est l'objet du théorème de Rice (dev).
+
+Enfin, une fois qu'on a formalisé le cadre dans lequel se déroulent nos algorithmes, et qu'on sait s'ils terminent ou pas... on peut se demander
+en combien de temps ils terminent, et c'est de là que naît la théorie de la complexité. On regarde alors deux choses : le nombre de cases sur 
+lesquelles une machine a écrit et le temps que la machine a pris pour écrire sur toutes ces cases. Cela permet de définir tout un tas de classes
+de complexité, et de réduire pas mal de problèmes à une machine de Turing, où on pourra regarder combien de temps elle met à s'executer. En 
+particulier, le problème de base quand on parle de problèmes NP-complet, c'est le théorème de Cook, dont on va présenter la preuve, qui fait
+le lien entre la logique propositionnelle et les machines de Turing (dev).
+
+#p
+
+I Définitions
+
+i Machine de Turing à une bande, langage reconnu et exemples
+
+i Description d'une machine de Turing (graphe des configurations)
+
+i Robustesse (plusieurs bandes, non déterminisme...)
+
+i Machine de Turing universelle (ordinateur !)
+
+I Calculabilité/Décidabilité
+
+i Calculabilité
+
+i La thèse de Church Turing : lien avec d'autres modèles de calcul
+
+i Langage décidable (notion de problème)
+
+i Indécidabilité : le problème de l'arrêt et le théorème de Rice (dev)
+
+I Complexité
+
+i Théorème d'accélération linéaire !!!
+
+i Classes de complexité temporelle
+
+- PTIME NPTIME... Cook (dev)
+
+i Classes de complexité spaciale
+
+- PSPACE... (Savitch)

@@ -1,0 +1,37 @@
+162
+Systèmes d’équations linéaires ; opérations élémentaires, aspects algorith- miques et conséquences théoriques.
+
+#d
+
+Dimension du commutant
+Schéma numérique pour l'équation de la chaleur 
+
+#r
+
+grifone
+gourdon
+ciarlet
+serrematrice
+
+#c
+
+
+#p
+
+I Systèmes linéaires
+i Cas particulier : Cramer
+i Cas général : Rouché-Fontené
+i Cas des systèmes homogènes
+- s'attarder sur la dualité, noyaux de formes linéaires
+- dimension du commutant (dev)
+
+I Méthodes de résolution directe
+i Opérations élémentaires
+i Pivot de Gauss
+i Factorisation
+i En termes d'actions de groupes
+
+I Méthodes de résolution approchée
+i Méthodes itératives A = M + N
+i Méthodes de gradient
+i Applications aux équations aux dérivées partielles (dev)

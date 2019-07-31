@@ -1,0 +1,43 @@
+928
+Problèmes NP-complets : exemples et réduction.
+
+#d
+
+Problème du voyageur de commerce euclidien
+Théorème de Cook 
+
+#r
+
+benoit
+cormen
+
+#c
+
+
+#p
+
+I NP-complétude
+
+i Définitions : complexité, réduction, classes de complexité (P, NP)
+
+i NP-complétude et preuve de NP-complétude
+
+i Problèmes de décision vs optimisation
+
+i Un exemple fondamental : le calcul propositionnel, théorème de Cook (dev)
+
+I Tout un tas de problèmes NP-complets
+
+i Sur les graphes
+
+i Sur les ensembles
+
+i Sur le scheduling
+
+I Et que faire après ?
+
+i Les SAT solvers
+
+i Simplification des problèmes en rajoutant des hypothèses
+
+i Approximations ! Exemple du TSP (dev)

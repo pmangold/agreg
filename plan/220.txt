@@ -1,0 +1,44 @@
+220
+Équations différentielles X 0 = f (t, X). Exemples d’étude des solutions en dimension 1 et 2.
+
+#d
+
+Théorème de Liapounov
+Théorème de Cauchy-Lipschitz
+
+#r
+
+gourdon
+rouviere
+berthelin
+queffelec-zuily
+demailly
+
+
+#c
+
+
+#p
+
+
+I Généralités
+i Équation différentielle
+i Solution et solution maximale
+i Problèmes de Cauchy
+- Définition
+- Théorème de Cauchy-Lipschitz local (dev)
+i Étude des solutions
+- Grönwall
+- Lemme de sortie de tout compact
+- Théorème des bouts 
+
+I Systèmes différentiels autonomes et étude qualitative
+i Définitions, équilibres et portraits de phase
+i Système linéaire de dimension 2
+i Stabilité des équilibres
+- Théorème de Liapounov (dev)
+
+I Résolution
+i Explicite : quelques exemples
+i Séries entières
+i Approchée : méthode d'Euler

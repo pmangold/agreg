@@ -1,0 +1,40 @@
+228
+Continuité et dérivabilité des fonctions réelles d’une variable réelle. Exemples et applications.
+
+#d
+
+Méthode de Laplace
+Inégalités de kolmogorov 
+
+
+#r
+
+gourdon
+rouviere
+pommellet
+queffelec-zuily
+
+
+#c
+
+
+#p
+
+
+I Généralités
+i Fonctions continues, caractérisations de la continuité
+i Fonctions dérivables
+
+I Théorèmes fondamentaux
+i Théorème des valeurs intermédiaires
+i Théorème de Rolle et accroissements finis
+i Formules de Taylor : inégalités de Kolmogorov (dev)
+
+I Études de continuité et dérivabilité à la limite
+i Suites et séries de fonctions
+i Fonctions définies par une intégrale dépendant d'un paramètre
+- Application à la recherche d'équivalents : méthode de Laplace (dev)
+
+I Des exemples retentissants
+i Fonctions lipschitziennes et points fixes
+i Fonctions convexes et optimisation, gradient...

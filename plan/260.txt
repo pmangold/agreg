@@ -1,0 +1,38 @@
+260
+Espérance, variance et moments d’une variable aléatoire.
+
+#d
+
+Compteurs probabilistiques
+Processus de Galton-Watson
+
+#r
+
+appel
+barbe-ledoux
+ouvrard
+garet-kurtzmann
+
+
+#c
+
+
+#p
+
+
+I Espérance et variance
+i Espérance et moments
+i Variance et covaraiance
+i Inégalités classiques
+- Application : compteurs loglog (dev)
+
+
+I Fonctions caractéristique et génératrice
+i Fonction génératrice
+- Processus de Galton-Watson (dev)
+i Fonction caractéristique
+
+I Modes de convergence
+i Convergence en proba
+i Lois faible et forte des grands nombres
+i Théorème central limite

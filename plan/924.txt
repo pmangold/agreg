@@ -1,0 +1,37 @@
+924
+Théories et modèles en logique du premier ordre. Exemples.
+
+#d
+
+Décidabilité de l'arithmétique de Presburger
+Théorie des ordres denses 
+
+#r
+
+
+#c
+
+
+#p
+
+I Cadre : la logique mathématique
+
+i Motivation : définir ce qui se prouve
+
+i Le langage, formules de la logique
+
+i Qu'en faire ? Les preuves
+
+I Théories et modèles
+
+i Théories : aspect syntaxique
+
+i Modèles : aspect sémantique
+
+i Correspondance entre les deux
+
+I Des exemples de théories
+
+i Théories des ordres denses : élimination de coupures
+
+i Arithmétique : Peano, Presburger

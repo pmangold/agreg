@@ -1,0 +1,37 @@
+236
+Illustrer par des exemples quelques méthodes de calcul d’intégrales de fonc- tions d’une ou plusieurs variables.
+
+#d
+
+Formule des compléments
+Intégrale de Dirichlet et séries de Fourier
+
+#r
+
+demailly
+gourdon
+amar-matheron
+ouvrard
+
+#c
+
+
+#p
+
+
+I Méthodes de calcul direct
+i Primitives
+i Intégration par parties
+i Changement de variables
+i Fubini
+
+I Méthodes de calcul "externe"
+i Théorème de convergence dominée et intégrales à paramètres
+- application au calcul de l'intégrale de sinx/x + Fourier vite fait (dev)
+i Analyse complexe : formule des résidus
+- application à la formule des compléments (dev)
+
+I Méthodes numériques de calcul d'intégrale
+i Méthodes rectangles, trapèzes
+i Méthode d'interpolation de Lagrange
+i Méthode de Monte-Carlo

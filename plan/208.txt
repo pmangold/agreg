@@ -1,0 +1,40 @@
+208
+Espaces vectoriels normés, applications linéaires continues. Exemples.
+
+#d
+
+Théorème de Liapounov
+Théorème du point fixe de Kakutani et sous-groupes compacts de $GL_n(\mathbb{R})$ 
+Algorithme du gradient à pas optimal
+
+#r
+
+queffelec-zuily
+gourdon
+pommellet
+brezis
+hauchecorne
+
+#c
+
+
+#p
+
+I Généralités
+i Normes sur un espace vectoriel
+i Des exemples d'espaces vectoriels normés
+
+I Applications linéaires continues
+i Norme subordonnée
+i Définitions équivalentes
+i Exemples et contre exemples
+i Points fixes d'une application linéaire : application aux sous-groupes de $GL_n(\mathbb R)$ (dev)
+
+I Le cas très particulier de la dimension finie
+i Compacité de la sphère unité
+i Équivalence des normes
+
+I Le cas euclidien
+i Produit scalaire
+i Exemple de la convexité
+i Application à l'étude de la stabilité de systèmes différentiels (dev)

@@ -1,0 +1,42 @@
+265
+Exemples d’études et d’applications de fonctions usuelles et spéciales.
+
+#d
+
+Méthode de Laplace
+Formule des compléments
+
+#r
+
+gourdon
+rudin
+amar-matheron
+queffelec-zuily
+
+
+#c
+
+
+#p
+
+I Étude de fonctions
+i Outils
+i Fonctions usuelles
+- exponentielle
+- fonctions trigonométriques
+- fonctions hyperboliques
+- fonctions réciproques
+
+I Séries entières, séries de Taylor
+i Développement en série entière
+i Séries de Taylor usuelles
+i Prolongement des fonctions usuelles
+
+I Fonctions spéciales
+i Outils pour l'étude de fonctions définies par une intégrale
+- théorème de convergence dominée et tout
+- méthode de Laplace (dev)(1)
+i Prolongement de la factorielle : la fonction $\Gamma$ d'Euler
+- formule des compléments (dev)(2)
+- équivalent en $+\infty$ et formule de Stirling (dev)(1)
+i La fonction $\Zeta$ de Riemann

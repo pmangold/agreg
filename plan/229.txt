@@ -1,0 +1,44 @@
+229
+Fonctions monotones. Fonctions convexes. Exemples et applications.
+
+#d
+
+Processus de Galton-Watson
+Algorithme du gradient à pas optimal 
+
+#r
+
+gourdon
+ciarlet
+ouvrard
+rombaldi
+gonnord-tosel
+dantzer
+
+#c
+
+
+#p
+
+I Fonctions monotones
+i Définition et caractérisation
+i Lien avec la continuité
+i Lien avec la dérivabilité
+
+I Fonctions convexe
+i Définition
+i Caractérisations
+i Régularité
+
+I Applications 
+i Études de suites, séries
+- Points fixes ?
+- Comparaison séries intégrale
+- Processus de Galton-Watson (dev)
+
+i Inégalités de convexité
+
+i Optimisation
+- Méthodes de gradient
+- Gradient à pas optimal (dev)
+- Gradient conjugué

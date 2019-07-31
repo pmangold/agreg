@@ -1,0 +1,41 @@
+243
+Convergence des séries entières, propriétés de la somme. Exemples et appli- cations.
+
+#d
+
+Nombres de Bell
+Théorèmes d'Abel angulaire et taubérien faible
+
+#r
+
+gourdon
+pommellet
+queffelec-zuily
+beck
+
+#c
+
+
+#p
+
+
+I Définition et premières propriétés
+i Rayon de convergence, séries entières
+i Calcul du rayon de convergence
+i Opérations sur les sommes de séries entières
+
+I Propriétés de la somme 
+i Sur $\mathbb R$
+i Sur $\mathbb C$
+
+I Développements en séries entières
+i Définitions et propriétés
+i Développements en séries entières usuels
+
+I Applications
+i Dénombrement : séries génératrices
+- nombres de Bell (dev)
+i Équations différentielles
+
+I Convergence au bord du disque ?
+Théorèmes d'Abel angulaire et taubérien faible (dev)

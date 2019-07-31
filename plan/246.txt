@@ -1,0 +1,45 @@
+246
+Séries de Fourier. Exemples et applications.
+
+#d
+
+Échantillonage de Shannon
+Intégrale de Dirichlet et séries de Fourier 
+
+#r
+
+queffelec-zuily
+gourdon
+
+
+#c
+
+
+#p
+
+
+I Définitions et premières propriétés
+i Fonctions périodiques
+i Coefficients de Fourier, séries de Fourier
+
+I Convergence dans $L^2$
+i Base hilbertienne de $L^2$
+- $(e_n)$ est une base hilbertienne de $L^2([0,2\pi])$
+
+i Formule de Parseval et applications
+- formule de Parseval
+- application à $f: x\rightarrow x^2$
+
+I Convergence de la série de Fourier
+i Noyaux trigonométriques
+- Noyau de Dirichlet
+- Noyau de Fejer
+
+i Théorèmes de convergence
+- Théorème de Dirichlet (dev)
+- Théorème de Féjer
+
+
+I Applications 
+i Formule de Poisson et échantillonage de Shannon (dev)
+i Équation de la chaleur (???)

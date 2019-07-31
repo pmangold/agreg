@@ -1,0 +1,38 @@
+223
+Suites numériques. Convergence, valeurs d’adhérence. Exemples et applica- tions.
+
+#d
+
+Méthode de Newton
+Développement asymptotique de la série harmonique 
+
+#r
+
+gourdon
+queffelec-zuily
+rouviere
+el-amranisuite
+
+#c
+
+
+#p
+
+I Étude de la convergence
+i Limite
+i Résultats de convergence
+i Valeurs d'adhérences
+i Suites de Cauchy
+
+I Suites particulières
+i En vrac : arithmétique, géométrique, homographique
+i Suites définies par récurrence : méthode de Newton (dev)
+
+I Étude asymptotique
+i Théorèmes de comparaisons
+i Séries : exemple de la série harmonique (dev)
+
+I Application en topologie
+- Caractérisation des fermés, compacts
+- Caractérisation de la continuité
+

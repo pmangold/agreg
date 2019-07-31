@@ -1,0 +1,47 @@
+926
+Analyse des algorithmes : complexité. Exemples.
+
+#d
+
+Algorithme de Floyd-Warshall
+Complexité moyenne du tri rapide 
+
+#r
+
+cormen
+froidevaux
+benoit 
+
+#c
+
+
+#p
+
+
+I Introduction à la complexité
+
+i Complexité en temps
+
+i Complexité en espace
+
+i Pertinence du modèle de calcul
+
+I Analyse simple de complexité : le pire cas
+
+i Itératif
+
+- Programmation dynamique : ex de floyd-warshall (dev)
+
+- Glouton
+
+i Récursif : master theorem
+
+i Parallèle : work/span (trouver traduction française)
+
+I Analyse plus fine
+
+i Analyse en moyenne : le tri rapide (dev)
+
+i Analyse amortie : présenter une méthode du cormen
+
+i Optimalité, complexité si on se permet une petite erreur, pas tjs possible tout ça... (exempe du TSP par ex)

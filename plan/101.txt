@@ -1,0 +1,44 @@
+101
+Groupe opèrant sur un ensemble. Exemples et applications.
+
+#d
+Nombre de matrice sur un corps finis de polynôme caractéristique donné 
+Théorème de Brauer
+
+#r
+perrin
+ulmergroupe
+beck
+gourdon
+nh2g21
+nh2g22
+alessandri
+
+
+
+#c
+
+
+#p
+I Définitions et premières propriétés
+i Groupe
+i Opération
+i Formule des classes et Burnside
+
+I Exemples classiques d'actions
+i Action par translation
+i Action par conjugaison
+
+I Actions de groupe et algèbre linéaire
+i Équivalence, similitude et formes quadratiques (?)
+i Action par permutation
+- groupe symétrique 
+- théorème de Brauer (dev)
+
+i Action sur un espace vectoriel et représentations
+
+I Applications
+i Dénombrement sur les corps finis
+- Nombre de matrices blabla (dev)
+- Loi de réciprocité quadratique
+i Géométrie affine, isométries

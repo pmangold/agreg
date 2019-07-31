@@ -1,0 +1,42 @@
+233
+Analyse numérique matricielle : résolution approchée de systèmes linéaires, recherche de vecteurs propres, exemples.
+
+#d
+
+Schéma numérique pour l'équation de la chaleur
+Algorithme du gradient à pas optimal 
+
+#r
+
+ciarlet
+allaire
+serrematrice
+
+
+#c
+
+
+#p
+
+
+I Généralités
+i Normes
+i Conditionnement
+i Matrices symétriques !
+
+I Méthodes de résolution des systèmes linéaires
+i Méthodes directes
+- Pivot de Gauss
+- Décompositions (LU par ex)
+i Méthodes itératives
+i Méthodes de gradient (dev)
+
+I Recherches de valeurs et vecteurs propres
+i Méthode de la puissance
+i Méthode de la puissance inverse
+
+I Schémas numérques pour les équations différentielles
+i Schéma d'Euler explicite
+i Schémas pour les équations aux dérivées partielles
+- Schéma explicite/implicite
+- Mix des deux : schéma thêta (dev) 

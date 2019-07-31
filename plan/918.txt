@@ -1,0 +1,32 @@
+918
+Systèmes formels de preuve en logique du premier ordre. Exemples.
+
+#d
+
+Une involution est une bijection
+Théorie des ordres denses 
+
+#r
+
+dnr
+
+#c
+
+
+#p
+
+I Cadre : la logique mathématique
+
+i Motivation : définir ce qui se prouve
+
+i Le langage, formules de la logique
+
+i Théories et modèles, ex de la théorie des ordres denses (dev)
+
+I Des systèmes formels classiques
+
+i Déduction naturelle
+
+i Calcul des séquents : un exemple de preuve (dev)
+
+I Un mot sur l'automatisation ?

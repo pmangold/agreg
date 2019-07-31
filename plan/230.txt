@@ -1,0 +1,36 @@
+230
+Séries de nombres réels ou complexes. Comportement des restes ou des sommes partielles des séries numériques. Exemples.
+
+#d
+
+Développement asymptotique de la série harmonique
+Théorèmes d'Abel angulaire et taubérien faible 
+
+#r
+
+gourdon
+el-amranisuite
+queffelec-zuily
+
+#c
+
+
+#p
+
+I Convergence d'une série
+i Définition et premiers exemples
+i Suite de Cauchy et convergence absolue
+
+I Le cas des suites à termes positifs
+i Comparaison de séries
+i Règles de convergence
+i Comparaison série-intégrale
+i Sommation des relations de comparaison
+- Développement asymptotique de la série harmonique (dev)
+
+I En dehors des SATP ?
+i Le critère spécial des séries alternées
+i Transformation d'Abel
+i Séries entières
+- Théorème d'Abel (dev)
+- 

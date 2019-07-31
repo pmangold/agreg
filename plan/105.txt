@@ -1,0 +1,38 @@
+105
+Groupe des permutations d’un ensemble fini. Applications.
+
+#d
+
+Lemme de Zolotarev
+Théorème de Brauer
+
+#r
+
+gourdon
+ulmergroupe
+perrin
+h2g21
+h2g22
+caldero-peronnier
+
+#c
+
+
+#p
+
+I Généralités sur le groupe symétrique
+i Définition et premières propriétés
+i Orbites, cycles, décomposition
+i Signature et groupe alterné
+- lemme de Zolotarev (dev)
+
+I Structure de $S_n$ et $A_n$
+i Classes de conjugaison
+- théorème de Brauer (dev)
+i Générateurs
+
+I Applications
+i Déterminant
+i Polynômes symétriques
+i Matrices de permutations
+i Actions de groupes et représentations ?

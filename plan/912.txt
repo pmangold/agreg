@@ -1,0 +1,56 @@
+912
+Fonctions récursives primitives et non primitives. Exemples.
+
+#d
+
+La fonction d'Ackermann n'est pas récursive primitive
+Les fonctions récursives sont lambda-définissables 
+
+#r
+
+carton
+dehornoy
+cori2
+
+#c
+
+On passe beaucoup de temps à se demander comment on calcule les choses : c'est tout l'objet de l'algorithmique. En particulier,
+on construit des algorithmes récursifs, et on se rend compte que parfois, on dirait que ça va jamais s'arrêter... du coup, qu'est
+ce qu'on peut calculer ? Et c'est là qu'on a besoin de modèles de calcul.
+
+Un modèle qui correspond bien à l'intuition d'un algorithme, c'est les fonctions récursives. Alors on définit d'abord les fonctions
+récursives primitives, mais on se rend compte que ça suffit pas : il y a des fonctions qu'un algorithme arrive à calculer qu'on 
+ne peut pas exprimer comme ça, par exemple la fonction d'Ackermann (dev).
+
+L'intuition qu'on a, c'est que toutes les fonctions calculables (définition fantaisiste propre à chacun.e) sont récursives... on
+pourrait en douter (on a vu que récursif primitif ça suffit pas !) mais en fait, les autres modèles de calcul qu'on connaît donnent
+la même chose : les machines de Turing, et le $\lambda$-calcul (dev)...
+
+Faudrait rajouter un bout sur les ensembles récursifs mais j'y connais encore rien mais ça va bientôt changer :)
+
+
+#p
+
+I Fonctions récursives primitives
+
+i Définition et propriétés de cloture (généralisation avec codage des suites)
+
+i Exemples 
+
+i Limite des fonctions récursives primitives : le cas de la fonction d'Ackermann (dev)
+
+I Fontions récursives comme modèle de calcul
+
+i Définition (schéma $\mu$) et problème d'indécidabilité !
+
+i Lien avec les machines de Turing
+
+i Lien avec le $\lambda$-calcul (dev)
+
+I Ensembles récursifs et récursivement énumérables
+
+i Définitions
+
+i Le problème de l'arrêt : la disctinction entre les deux 
+
+i Théorèmes de point fixe

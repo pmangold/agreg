@@ -1,0 +1,35 @@
+157
+Endomorphismes trigonalisables. Endomorphismes nilpotents.
+
+#d
+
+Théorème de Burnside
+Dunford et l'exponentielle de matrice
+
+#r
+
+beck
+gourdon
+grifone
+
+#c
+
+
+#p
+
+I Endomorphismes trigonalisables
+i Généralités sur les polynômes d'endomorphismes
+- Lemmes des noyaux
+- Cayley-Hamilton
+i Trigonalisation
+i Trigonalisation simultanée
+
+I Endomorphismes nilpotents
+i Définitions
+i Le cône nilpotent
+i Caractérisation par la trace et applications (dev)
+
+
+I Application à la réduction
+i Blocs de Jordan
+i Décomposition de Dunford (dev)

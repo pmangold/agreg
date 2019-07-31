@@ -1,0 +1,36 @@
+182
+Applications des nombres complexes la géométrie.
+
+#d
+
+Suite de polygones
+Ellipse de Steiner 
+
+#r
+
+eiden
+audin
+ramis-warusfel
+
+#c
+
+
+
+#p
+
+I Géométrie euclidienne
+i Plan affine et plan complexe
+i Angles et distances
+i Transformations du plan
+
+I Lieux géométriques usuels
+i Droites, cercles et coniques
+i Géométrie du triangle
+- ellipse de Steiner (dev)
+i Polygônes
+- suite de polygônes (dev)
+
+I Géométrie projective
+i Définition
+i Homographies
+i Birapport

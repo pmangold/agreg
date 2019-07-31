@@ -1,0 +1,52 @@
+106
+Groupe linéaire d’un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications.
+
+#d
+
+Théorème de Burnside
+Théorème du point fixe de Kakutani et sous-groupes compacts de $GL_n(\mathbb{R})$
+
+#r
+
+perrin
+gourdon
+ulmergroupe
+alessandri
+mneimé-testard
+
+
+#c
+
+
+#p
+
+I Groupe (spécial) linéaire
+i Groupe linéaire et quelques propriétés
+i Déterminant et groupe spécial linéaire
+i Pivot de Gauss: générateurs
+i Groupes dérivés
+
+I Des sous-groupes du groupe linéaire
+i Groupe (spécial) orthogonal
+- Définition
+- Générateurs
+
+i Sous-groupes finis
+- Théorème de Cayley
+- Théorème de Burnside (dev)
+
+I Action du groupe linéaire
+i Sur des espaces vectoriels
+- dénombrement du nombre de matrices diagonalisables sur Fq
+- géométrie ?
+
+i Sur les matrices elles-mêmes
+- équivalence
+- conjugaison
+- multiplication à gauche
+
+I Aspects topologiques
+i Densité des matrices inversibles
+i Connexité
+i Compacité et sous-groupes compacts
+- Point fixe de Kakutani et sous groupes compacts de GL(E)

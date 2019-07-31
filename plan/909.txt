@@ -1,0 +1,94 @@
+909
+Langages rationnels et automates finis. Exemples et applications.
+
+#d
+
+Construction d'un automate déterministe à partir d'une expression régulière
+Décidabilité de l'arithmétique de Presburger
+
+#r
+
+dehornoy
+carton
+aho
+
+#c
+
+Les automates constituent un modèle de calcul très simple et très facile à implémenter algorithmiquement : il suffit de suivre
+l'automate au fur et à mesure qu'on lit un mot pour voir s'il est reconnu par cet automate.
+
+La puissance des automates est d'autant plus importante qu'ils peuvent être non déterministes et quand même donner un algorithme
+(par déterminisation), et surtout, ils sont très expressifs : les langages reconus par les automates sont exactement les langages
+rationnels ! (Théorème de Kleene) 
+
+On trouve alors naturellement beaucoup d'applications : 
+	analyse lexicale, 
+	décidabilité (on ne peut pas se perdre dans un automate !) (dev : Presburger),
+	recherche de motifs (infiniment utile en pratique).
+
+Et ce lien est d'autant plus fort que l'on peut facilement parcourir un automate correspondant à une expression rationnelle 
+sans avoir à le construire en entier (car ça coûte cher aie aie aie) ! (dev)
+
+
+
+
+#p
+
+I Automates finis
+
+i Définition et langage d'un automate 
+
+- Définition d'un automate fini déterministe
+
+- Langage reconnu par un automate
+
+* Exemples des automates reconnaissant les additions d'entiers en binaire, ou reconnaissance $\Sigma^*\omega$ pour un mot donné $\omega$
+
+- "Limite de taille d'un mot" : lemme de l'étoile
+
+i Automate minimal
+
+- Définition
+
+- Congruence de Nérode
+
+- Algorithme de Hopcroft
+
+i Automates non déterministes
+
+- Déterminisation : automate de parties
+
+- Exemple où l'automate des parties est l'automate minimal
+
+I Langages rationnels
+
+i Expressions rationnelles
+
+- Définition et langage 
+
+- Robustesse de la classe des langages rationnels
+
+
+i Lien avec les automates 
+
+- Théorème de Kleene
+
+- Application aux automates généralisés ? Voir Dehornoy p.86
+
+- Trouver le langage reconnu par un automate : lemme d'Arden
+
+i Construction d'un automate reconnaissant une expression rationnelle
+
+- Construction de Thompson
+
+- Simulation de l'AFD directement (dev)
+
+I Applications
+
+i Recherche de motifs
+
+i Analyse lexicale
+
+i Décidabilité
+
+- Arithmétique de Presburger (dev)

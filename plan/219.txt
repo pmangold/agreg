@@ -1,0 +1,42 @@
+219
+Extremums : existence, caractérisation, recherche. Exemples et applications.
+
+#d
+
+Algorithme du gradient à pas optimal
+Extrema liés 
+
+#r
+
+rouviere
+gourdon
+avez
+ciarlet
+
+#c
+
+
+#p
+
+I Existence d'un extremum
+i Compacité
+i Convexité
+i Projection sur un convexe
+
+I Extrema locaux
+i Différentiabilité
+i Point critique : condition nécessaire mais pas suffisante
+i Gradient : théorème de représentationde Riesz
+
+I Optimisation sans contrainte
+i Méthode de Newton
+i Méthodes de gradient
+- Définition d'une méthode de gradient
+- Gradient à pas optimal (dev)
+- Gradient conjugué
+
+
+I Optimisation sous contraintes
+i Introcution
+i Sous variétés
+i Théorème de extrema liés + applications (dev)

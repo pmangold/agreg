@@ -1,0 +1,49 @@
+925
+Graphes : représentations et algorithmes.
+
+#d
+
+Algorithme de Floyd-Warshall
+Problème du voyageur de commerce euclidien 
+
+#r
+
+cormen
+froidevaux
+
+#c
+
+
+#p
+
+I Définition
+
+i Graphe
+
+i Représentation : liste d'adjacence, matrice, et intérêt
+
+I Parcours
+
+i En largeur
+
+i En profondeur
+
+i Tri topologique
+
+I Arbres couvrants minimaux
+
+i Prim
+
+i Kruskal
+
+I Chemins dans un graphes
+
+i Plus court chemin à source unique
+
+i Plus court chemin pour toutes les sources : Floyd Warshall (dev)
+
+I Problèmes de cycles
+
+i Cycle hamiltonien
+
+i TSP euclidien ou non et approximation (dev)

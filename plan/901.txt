@@ -1,0 +1,61 @@
+901
+Structures de données. Exemples et applications.
+
+#d
+
+Tri par tas
+Insertion dans un arbre B
+ 
+
+#r
+
+froidevaux
+cormen
+beauquier
+
+#c
+
+Les structures de données sont essentiellement des outils sur lesquels on peut construire des algorithmes : on définit des types abstraits, 
+sur lesquels on peut effectuer des opérations (supprimer, rajouter, chercher un élément...), sans se soucier de comment c'est implémenté.
+Ainsi on donne les algorithmes avec une complexité spatiale et temporelle qui dépend des hypothèses faites sur ce qu'on peut avoir en termes
+de structures de données : exemple du tri par tas (DEV).
+
+Mais comme on va bien devoir les implémenter, on doit aussi réfléchir à ce qu'il se passe dans ces structures là, et cela dépend des hypothèses
+que l'on arrive à maintenir sur nos données. Naïvement, on construit des structures séquentielles, qui servent quand un élément a au plus un
+voisin (par exemple des entiers), mais on peut faire mieux, par exemple des arbres, si l'on arrive à avoir une relation d'ordre : exemple des
+arbres B (DEV). Enfin, le plus généralement possible, un graphe permet de tout modéliser.
+
+
+
+#p
+I Types abstraits de données (Froidevaux)
+
+- Signature et propriétés des types abstraits
+
+I Structures séquentielles
+
+i Listes chaînées
+
+i Utilisation pour les piles et les files
+
+i Représentation d'un ensemble dans un tableau
+
+I Structures arborescentes
+
+i Définition d'un arbre
+
+i Arbres binaires et représentation par un tableau : tas (dev)
+
+i Arbres généraux, avec un nombre indéfini d'enfants par noeuds, exemple des arbres B (dev)
+
+I Structures avancées
+
+i Graphes
+
+- Représentation (matrices, liste d'adjacence...)
+
+- Algorithmes de parcours
+
+i Tables de hachage
+
+i Union find

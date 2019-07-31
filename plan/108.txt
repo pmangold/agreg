@@ -1,0 +1,46 @@
+108
+Exemples de parties génératrices d’un groupe. Applications.
+
+#d
+
+Automorphismes de $S_n$
+Théorème de Brauer
+Théorème de Cartan-Dieudonné ?
+
+#r
+
+perrin
+gourdon
+ulmergroupe
+audin
+combesgeometrie
+
+
+#c
+
+
+#p
+
+I Premiers groupes
+
+i Partie génératrice
+
+i Groupe monogène/cyclique
+
+i Groupes abéliens (thm de structure)
+
+I Groupe symétrique et groupe diédral
+
+i Groupe symétrique
+Automorphismes de $S_n$ (dev)
+Théorème de Brauer (dev)
+
+i Groupe diédral
+
+I Groupes linéaires
+
+i Groupe linéaire
+i Groupe spécial linéaire
+i Groupe orthogonal
+Théorème de Cartan-Dieudonné (dev)
+i Groupe spécial orthogonal

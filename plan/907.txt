@@ -1,0 +1,60 @@
+907
+Algorithmique du texte. Exemples et applications.
+
+#d
+
+Algorithme KMP
+Plus longue sous séquence commune
+
+#r
+
+crochemore1
+crochemore2
+cormen
+aho
+navarro
+
+#c
+
+
+
+
+#p
+
+I Définitions
+
+Le monoïde des mots
+
+I Recherche dans un texte
+
+i Recherche d'un motif dans un texte
+
+- Approche naïve
+
+- Automate
+
+- Knuth-Morris-Pratt (dev)
+
+- Horspool
+
+- Rabin-Karp
+
+i Recherche d'expression rationnelle
+
+I Comparaison de deux textes
+
+i Distance d'édition
+
+i PLus longue sous-séquence commune (dev)
+
+I Stockage et représentation
+
+i Encodage
+
+i Dictionnaires
+
+i Compression
+
+- Huffman
+
+- Lempel-Ziv-Welch

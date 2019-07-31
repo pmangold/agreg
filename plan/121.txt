@@ -1,0 +1,38 @@
+121
+Nombres premiers. Applications.
+
+#d
+
+Lemme de Zolotarev
+Théorème de Dirichlet faible
+
+
+#r
+
+demazure
+combesgeometrie
+perrin
+gourdon
+ulmeranneaux
+
+#c
+
+
+#p
+
+I Arithmétique
+i Nombres premiers
+i Tests de primalité
+i Infinité de nombres premiers et répartition
+i Des familles de nombres premiers : Théorème de Dirichlet faible (dev)
+
+I Corps finis
+i Structure des corps finis
+i Polynômes dans F_q
+i Carrés : Frobenius-Zolotarev (dev)
+
+I En théorie des groupes 
+i p-groupes
+i Théorèmes de Sylow
+
+I En cryptographie

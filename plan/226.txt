@@ -1,0 +1,37 @@
+226
+Suites vectorielles et réelles définies par une relation de récurrence un+1 = f (un ). Exemples. Applications à la résolution approchée d’équations.
+
+#d
+
+Processus de Galton-Watson
+Méthode de Newton 
+
+#r
+
+gourdon
+demailly
+quarteroni
+rouviere
+rombaldi
+ouvrard
+
+
+#c
+
+
+#p
+
+
+I Généralités et outils
+i Suites réelles
+i Suites vectorielles
+i Exemples classiques
+
+I Étude de points fixes
+i Théorèmes de points fixes
+i Caractérisation des points fixes : attractifs blabla
+- application au processus de Galton-Watson (dev)
+
+I Méthodes numériques
+i De résolution d'équation : méthode de Newton (dev)
+i De résolution de systèmes linéaires : exemple de l'équaton de la chaleur

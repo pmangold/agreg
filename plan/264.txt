@@ -1,0 +1,40 @@
+264
+Variables aléatoires discrètes. Exemples et applications.
+
+#d
+
+Compteurs probabilistiques
+Processus de Galton-Watson
+
+#r
+
+appel
+barbe-ledoux
+ouvrard
+garet-kurtzmann
+
+
+#c
+
+
+#p
+
+
+I Définitions
+i Lois discrètes
+i Lois usuelles et liens entre elles
+i Espérance, variance et inégalités
+i Borel Cantelli
+
+I Indépendance
+i Variables aléatoires indépendantes
+i Fonction caractéristique
+
+
+I Fonction génératrice
+- Processus de Galton-Watson (dev)
+
+I Convergence en loi
+i Approximation des lois
+i Loi faible et forte des grands nombres
+i Théorème central limite

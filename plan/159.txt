@@ -1,0 +1,37 @@
+159
+Formes linéaires et dualité en dimension finie. Exemples et applications.
+
+#d
+
+Théorème de Cartan-Dieudonné
+Extrema liés 
+
+#r
+
+avez
+gourdon
+grifone
+rouviere
+
+#c
+
+
+#p
+
+I Dualité
+i Formes linéaires et espace dual
+i Bidual et base antéduale
+
+I Orthogonalité
+i Définitions
+i Sous-espaces vectoriels
+i Hyerplans
+i Application transposée ?
+
+I Espaces de Hilbert : si on a un produit scalaire ?
+i Représentation par le produit scalaire (Riesz)
+i Fonctions différentiables
+- Gradient
+- Extrema liés (dev)
+i En géométrie ?
+- Théorème de Cartan-Dieudonné (dev)

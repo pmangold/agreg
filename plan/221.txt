@@ -1,0 +1,36 @@
+221
+Équations différentielles linéaires. Systèmes d’équations différentielles linéaires. Exemples et applications.
+
+#d
+
+Théorème de Liapounov
+Différentiabilité de l'exponentielle de matrices
+
+#r
+
+queffelec-zuily
+gourdon
+berthelin
+rouviere
+demailly
+
+#c
+
+
+#p
+
+I Généralités
+i Équation différentielle linéaire
+i Problème de Cauchy linéaire !
+
+
+I Méthodes pratiques de résolution
+i Le cas des coefficients constants
+- exponentielle de matrices
+- application : différentielle de l'exponentielle (dev)
+i Bases de solutions de l'équation homogène
+i Solution particulière : variation de la constante
+
+I Plus loin que le cas linéaire
+i Équations non linéaires qui se ramènent au cas linéaire
+i Étude de la stabilité par un système linéaire : Théorème de Liapounov (dev)

@@ -1,0 +1,36 @@
+141
+Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications.
+
+#d
+
+Algorithme de Berlekamp
+Théorème de Dirichlet faible 
+
+#r
+
+gozard
+perrin
+risler-boyer
+gourdon
+
+#c
+
+
+#p
+
+I Polynômes irréductibles
+i Définition
+i Critères d'irréductibilité
+i Éléments algébrques, transcendants, extension algébrique
+
+I Adjonction de racines
+i Corps de rupture
+i Corps de décomposition
+i Clôture algébrique
+
+I Polynômes cyclotomiques
+Théorème de Dirichlet faible (dev)
+
+I Polynômes sur les corps finis
+- Enlever les facteurs carrés
+- Factoriser un polynôme sans facteur carré : Berlekamp (dev)

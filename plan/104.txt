@@ -1,0 +1,38 @@
+104
+Groupes finis. Exemples et applications.
+
+#d
+Automorphismes de $S_n$
+Théorème de Burnside 
+
+#r
+
+perrin
+ulmergroupe
+gourdon
+combes
+calaisgroupe
+
+#c
+
+
+#p
+
+I Étude générale des groupes finis
+i Ordre et exposant
+- Théorème de Burnside (dev)
+i Théorème de Lagrange
+i Action de groupes
+
+I Groupes abéliens finis
+i Groupes cycliques
+i Théorème de structure
+
+I Groupes non abéliens
+i Groupes symétriques
+- automorphismes de $S_n$ (dev)
+i p-groupes
+
+I Applications
+i Géométrie : groupes diédraux
+i Représentations

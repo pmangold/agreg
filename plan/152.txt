@@ -1,0 +1,41 @@
+152
+Déterminant. Exemples et applications.
+
+#d
+
+Suite de polygones
+Théorème de Burnside 
+
+#r
+
+gourdon
+grifone
+risler-boyer
+
+
+#c
+
+
+#p
+
+I Formes multilinéaires
+
+I Déterminant
+i Défintion
+i Propriétés algébriques
+i Propriétés topologiques
+
+I Méthodes de calcul
+i Développement
+i Pivot de Gauss
+i Déterminants classiques
+- Vandermonde : application au théorème de Burnside (dev)
+- Circulant : application aux suites de polygônes (dev)
+- Cauchy
+
+I Applications
+i Polynômes caractéristiques
+i Systèmes linéaires
+i Distances de volumes
+i Orientation
+i Résultant

@@ -1,0 +1,54 @@
+916
+Formules du calcul propositionnel : représentation, formes normales, satisfia- bilité. Applications.
+
+#d
+
+Théorème de compacité du calcul propositionnel
+Théorème de Cook 
+
+#r
+
+cori1
+rougemont
+
+#c
+
+En maths on a vite envie de pouvoir exprimer des relations entre la véracité de plusieurs propositions. De façont très 
+triviale, on le fait souvent dans la vie de tous les jours, par exemple : il y a du soleil donc il n'y a pas de nuage...
+
+En faisant ça, on a en fait défini deux variables qui prennent les valeurs OUI/NON, et qui expriment (dans notre tête !)
+ce que l'on veut. En fait, c'est le calcul propositionnel, il permet d'exprimer ces relations.
+
+On définit alors de façon plus ou moins inductive l'ensemble des formules, puis une fonction d'évaluation : une table de
+vérité. Cette définition inductive permet de faire des preuves sur les formules, et un résultat retentissant c'est le 
+théorème de compacité ! Ça donne d'ailleurs très naturellement des exemples d'applications et on voit la puissance du
+calcul propositionnel, par exemple on peut regarder les pavages ou les coloriages de graphes.
+
+Mais cette puissance a un prix, et c'est la complexité de résolution de ces formules... en effet, SAT est NP-complet (dev),
+ce qui est un peu chiant mais pas tant que ça vu qu'on arrive à ruser pour faire des solvers pas si inefficaces !
+
+#p
+
+I Définition du calcul propositionnel
+
+i Définition, notations
+
+i Théorème de lecture unique (définition inductive !)
+
+i Démonstrations et définitions par induction sur les formules (déduction naturelle)
+
+I Sémantique
+
+i Table de vérité
+
+i Formules équivalentes et formes normales
+
+i Satisfiabilité : théorème de compacité et applications (dev)
+
+I Une application majeure : la complexité
+
+i Définition rapide des classes P, NP
+
+i NP-complétude de SAT (dev)
+
+i Peut-on pour autant faire des SAT solvers ? (cf Problème SAT, Lakhdar Saïs)

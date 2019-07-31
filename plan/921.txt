@@ -1,0 +1,49 @@
+921
+Algorithmes de recherche et structures de données associées.
+
+#d
+
+Insertion dans un arbre B
+PLus longue sous séquence commune
+
+#r
+
+froidevaux
+cormen
+crochemore1
+crochemore2
+
+#c
+
+
+#p
+
+I Recherche dans une structure de données linéaire
+
+i Recherche dans une liste non triée
+
+i Tri et recherche dichotomique
+
+i Recherche de médiane...
+
+I Structures adaptées à la recherche
+
+i Arbres binaires de recherche
+
+i Union find (partitions d'ensembles) : composantes connexes d'un graphe
+
+i Tables de hachage : dictionnaires
+
+i Une généralisation des ABR pour la recherche externe : les B-arbres (dev) et application aux bases de données !
+
+I Recherche dans un texte
+
+i Recherche d'un mot
+
+- Recherche naïve
+
+- Algorithme KMP
+
+- Recherche d'une sous-séquence commune (dev)
+
+i Recherche d'un motif

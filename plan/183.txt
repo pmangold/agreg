@@ -1,0 +1,61 @@
+183
+Utilisation des groupes en géométrie.
+
+#d
+
+Théorème de Cartan-Dieudonné
+Ellipse de Steiner
+
+
+#r
+
+audin
+tauvel
+combes
+h2g21
+h2g22
+cognet
+
+#c
+
+
+#p
+
+I Géométrie affine
+i Espace affine
+i Groupe affine
+
+
+
+I Géométrie euclidienne
+i Isométries
+
+Réfléxions, rotations
+
+Décomposition canonique
+
+Théorème de Cartan-Dieudonné (dev)
+
+i Dans le plan (angles, groupe diédral, construction règle/compas...)
+
+- Angles, isométries, déplacements, similitudes
+
+- Groupe diédral
+
+- Construction à la règle et au compas
+
+i Dans l'espace : isométries du cube...
+
+I Géométrie projective
+
+i Droite projective
+
+i Homographies
+
+i Birapport
+
+I Coniques, quadriques
+
+Classification des coniques
+
+Ellipse de Steiner (dev)

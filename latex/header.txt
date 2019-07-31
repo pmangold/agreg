@@ -1,0 +1,43 @@
+\documentclass[oneside]{book}
+
+
+\usepackage{babel}[french]
+\usepackage[utf8]{inputenc}
+\usepackage{sectsty}
+\usepackage[a4paper, total={7in, 10in}]{geometry}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{titletoc}
+\usepackage{tocloft}% http://ctan.org/pkg/tocloft
+\usepackage{filecontents}
+\usepackage{natbib}
+\usepackage{bibentry}
+
+\titleformat{\chapter}[display]
+    {\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{0pt}{40pt}
+
+\renewcommand{\chaptername}{Leçon}
+\chaptertitlefont{\huge}
+\renewcommand*\thesection{\arabic{section}}
+
+\setcounter{tocdepth}{0}
+\setlength{\cftchapnumwidth}{2.5em}% Set length of number width in ToC for \subsection
+\makeatother
+
+
+
+\title{Leçons pour l'agrégation de mathématiques option D}
+\author{Paul Mangold}
+\date{2018-2019}
+
+\nobibliography*
+
+
+\setlength{\parindent}{0cm} % Définit la largeur de l'alinéa à 1 cm.
+
+\begin{document}
+
+    \maketitle
+    \tableofcontents
+

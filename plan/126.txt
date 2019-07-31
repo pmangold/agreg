@@ -1,0 +1,14 @@
+126
+Exemples d’équations en arithmétique.
+
+#d
+
+#r
+
+
+#c
+
+
+#p
+
+

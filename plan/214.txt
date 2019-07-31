@@ -1,0 +1,36 @@
+214
+Théorème d’inversion locale, théorème des fonctions implicites. Exemples et applications en analyse et en géométrie.
+
+#d
+
+Fonction $C^\infty$ non triviale telle que $f(x)^x = x^f(x)$
+Extrema liés 
+
+#r
+
+avez
+rouviere
+lafontaine
+madere
+
+#c
+
+
+#p
+
+
+I Théorème d'inversion locale
+i Introduction : difféomorphismes
+i Inversion locale, cas $C^1$ et $C^k$
+i Changement de coordonnées
+
+
+I Théorème des fonctions implicites
+i Fonctions implicites, différentielle de la fonction implicite
+i Quelques applications
+- Résolution d'équations, en particulier (dev) 
+
+I Sous-variétés
+i Définitions
+i Théorème de sous-variétés
+i Théorème des extrema liés et applications (dev)

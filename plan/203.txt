@@ -1,0 +1,41 @@
+203
+Utilisation de la notion de compacité.
+
+#d
+
+Théorème du point fixe de Kakutani et sous-groupes compacts de $GL_n(\mathbb{R})$
+Algorithme du gradient à pas optimal
+
+#r
+
+gourdon
+queffelec
+queffelec-zuily
+pommellet
+hirsch-lacombe
+rouviere
+
+#c
+
+
+#p
+
+
+I Définitions et premiers résultats (très féconds !)
+i Borel-Lebesgue (topologique)
+i Bolzano-Weierstrass (métrique)
+
+I Fonctions continues sur un compact
+i Uniforme continuité
+i Théorème de Rolle, TAF
+i Théorème de Heine
+i Et si f est convexe ? Fonctionnelle elliptiques
+- convexe + coercif donne beaucoup d'information
+- recherche du minimum ? algorithme du gradient à pas optimal (dev)
+
+I Espaces vectoriels normés
+i Boule unité, rechreche d'extremum dessus
+i Point fixe linéaire et application
+- point fixe de Kakutani
+i Sous-groupes de GL_n(R) : le groupe orthogonal
+- sous-groupes compacts conjugué à sous-groupe de O_n(R)

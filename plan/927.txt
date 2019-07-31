@@ -1,0 +1,46 @@
+927
+Exemples de preuve d’algorithme : correction, terminaison.
+
+#d
+
+Algorithme KMP
+Tri par tas
+
+#r
+
+cormen
+froidevaux
+benoit
+nielson
+winskel
+
+#c
+
+
+#p
+
+
+I Exemples fondamentaux
+i Exponentiation rapide
+i Multiplication de matrices
+
+I Terminaison
+i Algorithmes itératifs : variant
+i Algorithmes récursifs : "stathme"
+i Indécidabilité du problème de la terminaison
+
+I Correction
+i Algorithmes itératifs : invariant
+i Algorithmes récursifs : induction
+i Construire l'algo sur la preuve
+* analyse d'une relation de récurrence : programmation dynamique et autres
+- floyd-warshall (dev?)
+- KMP (dev)
+* analyse d'une structure de données
+- tri par tas (dev)
+
+
+I Preuves formelles ??
+i IMP
+i Logique de Hoare
+i Exemples : factorielle dans la logique de Hoare 

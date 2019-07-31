@@ -1,0 +1,35 @@
+239
+Fonctions définies par une intégrale dépendant d’un paramètre. Exemples et applications.
+
+#d
+
+Méthode de Laplace
+Formule des compléments 
+
+#r
+
+queffelec-zuily
+gourdon
+briane-pages
+amar-matheron
+beck
+
+#c
+
+
+#p
+
+
+I Étude de la régularité
+i Continuité
+i Dérivabilité
+i Holomorphie
+- Fonction $\Gamma$ d'Euler : quelques propriétés au passage (dev)
+
+I Produits de convolution
+i Définition et premières propriétés
+i Approximation de l'unité
+
+I Fourier et Laplace
+i Fourier
+i Laplace (dev)

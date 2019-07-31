@@ -1,0 +1,39 @@
+923
+Analyses lexicale et syntaxique. Applications.
+
+#d
+
+Construction d'un automate déterministe à partir d'une expression régulière
+Algorithme de type principal 
+
+#r
+
+aho
+carton
+wilhelm
+
+
+#c
+
+
+#p
+
+I Généralités sur la compilation
+- Langage
+- Lexer, parser...
+
+I Analyse lexicale
+i Principe
+i Expressions rationnelles
+i Automates finis
+- construction
+- simulation (dev)
+
+I Analyse syntaxique
+i Principe
+i Grammaires non contextuelles
+i Analyse descendante/ascendante
+
+I Une brève incursion sémantique : le typage
+- typage des $\lambda$-termes (dev)
+
